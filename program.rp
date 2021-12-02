@@ -1,0 +1,30 @@
+VOID MAIN()
+{
+    testvar = 999;
+    foreach (testvar in testvar)
+    {
+        for (i = 0; i > 0; ++i)
+        {
+            while (testvar > 0)
+            {
+                do
+                {
+                    if (!(testvar <= 10))
+                    {
+                        switch (testvar)
+                        {
+                            case 999:
+                                testvar = 0;
+                                break;
+                            default:
+                                testvar = 999;
+                                break;
+                        };
+                    };
+                } while (testvar && (testvar > 213.4e55));
+            };
+        };
+    };
+    
+    return;
+}
