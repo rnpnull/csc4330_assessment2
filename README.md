@@ -1,4 +1,4 @@
-# Lexical and Syntax Analyzer for Assessment 2
+# Lexical and Syntax Analyzer
 
   
 
